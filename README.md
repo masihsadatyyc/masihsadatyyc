@@ -1,6 +1,6 @@
 ### console.log("Hello, World!"); 🗺️
 
-I'm Masih, a dedicated FullStack Developer on a mission to revolutionize the agricultural landscape through the application of cutting-edge technology. With a passion for crafting innovative solutions, I aim to bring a touch of code magic to farms and contribute to a more tech-savvy agricultural sector.
+I'm Masih, a dedicated FullStack Developer currently contributing my skills to the innovative team at <a href="https://vergeag.com/">Verge Agriculture</a>. Here, we actively shape the future of agriculture through cutting-edge technological advancements. My focus extends to enhancing user experiences by bringing a touch of magic to the frontend, ensuring not just good but exceptional UI, backed by robust and efficient backend solutions.
 
 If you share the enthusiasm for coding and the potential it holds for transforming traditional industries, I invite you to connect and collaborate. Let's embark on a journey of coding excellence together, exploring uncharted territories and creating remarkable solutions.
 
