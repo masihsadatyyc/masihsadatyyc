@@ -1,4 +1,4 @@
-### Howdy, Neighbours! 🤠
+### console.log("Hello, World!"); 🗺️
 
 I'm Masih, a dedicated FullStack Developer on a mission to revolutionize the agricultural landscape through the application of cutting-edge technology. With a passion for crafting innovative solutions, I aim to bring a touch of code magic to farms and contribute to a more tech-savvy agricultural sector.
 
