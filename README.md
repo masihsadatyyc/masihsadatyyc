@@ -1,10 +1,10 @@
 ### Hi, I'm Masih 👋
 
-I build software for precision agriculture at [Verge Ag](https://vergeag.com).
+I build software for agriculture at [Verge Ag](https://vergeag.com).
 
 I work on Launch Pad, the platform growers use to plan how machines drive their
-fields. Boundaries sync in from John Deere, CNH and Trimble, a planning engine
-works out guidance lines, headlands and routes, and the finished plan goes back
+fields. Boundaries sync in from John Deere, CNH, and Trimble, a planning engine
+works out guidance lines, headlands, and routes, and the finished plan goes back
 out to the display in the cab. I build the interfaces around all that, and the
 .NET services behind them.
 
