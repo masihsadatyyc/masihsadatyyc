@@ -1,10 +1,19 @@
-### console.log("Hello, World!"); 🗺️
+### Hi, I'm Masih 👋
 
-I'm Masih, a dedicated FullStack Developer currently contributing my skills to the innovative team at <a href="https://vergeag.com/">Verge Agriculture</a>. Here, we actively shape the future of agriculture through cutting-edge technological advancements. My focus extends to enhancing user experiences by bringing a touch of magic to the frontend, ensuring not just good but exceptional UI, backed by robust and efficient backend solutions.
+I build software for precision agriculture at [Verge Ag](https://vergeag.com).
 
-If you share the enthusiasm for coding and the potential it holds for transforming traditional industries, I invite you to connect and collaborate. Let's embark on a journey of coding excellence together, exploring uncharted territories and creating remarkable solutions.
+I work on Launch Pad, the platform growers use to plan how machines drive their
+fields. Boundaries sync in from John Deere, CNH and Trimble, a planning engine
+works out guidance lines, headlands and routes, and the finished plan goes back
+out to the display in the cab. I build the interfaces around all that, and the
+.NET services behind them.
 
-Wishing you seamless compilations and minimal debugging sessions in your coding endeavors. Keep coding, and let's make a positive impact!
+**Day to day:** Angular · TypeScript · RxJS · OpenLayers · C# · .NET · PostgreSQL
+
+**Most interested in** geospatial front-ends, OEM integrations, and problems
+where the output ends up moving something physical.
+
+[LinkedIn](https://www.linkedin.com/in/masih-s)
 
 
 <!--
